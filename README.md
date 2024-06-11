@@ -1,20 +1,27 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Submission Pertama : Menyelesaikan Permasalahan Human Resources
 
 ## Business Understanding
 
-Jelaskan latar belakang bisnis dari perushaan tersebut.
+Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000. Ia memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri. 
 
 ### Permasalahan Bisnis
 
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih cukup kesulitan dalam mengelola karyawan. Hal ini berimbas tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan) hingga lebih dari 10%.
+
+Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantuan Anda mengidentifikasi berbagai faktor yang mempengaruhi tingginya attrition rate tersebut. Selain itu, ia juga meminta Anda untuk membuat business dashboard untuk membantunya memonitori berbagai faktor tersebut.
 
 ### Cakupan Proyek
 
-Tuliskan cakupan proyek yang akan dikerjakan.
+- Memahami permasalahan bisnis
+- Pengecekan Data
+- Data Cleaning
+- Pembuatan Prediction Model
+- Pembuatan Dashboard
+- Pembuatan Video tentang dashboard yang telah dibuat dan akan di submit 
 
 ### Persiapan
 
-Sumber data: ....
+Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
 Setup environment:
 
